@@ -25,17 +25,8 @@
         <module>data_extraction_sms_regex</module>
         <module>yaml_json_parser</module>
         <module>jackson_serialization</module>
-        <module>untitled</module>
-        <module>untitled1</module>
-        <module>task_manager</module>
-        <module>contact_manager</module>
-        <module>untitled</module>
-        <module>untitled</module>
-        <module>angular_demo</module>
         <module>webcrawler</module>
         <module>javacrawler</module>
-        <module>bookapi</module>
-        <module>albanero</module>
     </modules>
 
     <build>
