@@ -1,0 +1,10 @@
+10001,ramalesh,xii,math=20,phy=50,chem=90
+10002,ramales,xii,math=21,phy=51,chem=91
+10003,kamale,xii,math=22,phy=52,chem=92
+10004,kamal,xii,math=23,phy=53,chem=94
+10005,kama,xii,math=24,phy=54,chem=93
+10006,kamalesh,xii,math=25,phy=55,chem=95
+10007,ramales,xii,math=26,phy=56,chem=96
+10008,ramale,xii,math=27,phy=57,chem=97
+10009,ramal,xii,math=28,phy=58,chem=98
+10010,rama,xii,math=29,phy=59,chem=99

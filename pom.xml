@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.com.cognitree.taskmanager.cognitree</groupId>
+    <artifactId>sandbox</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>expr_eval</module>
+        <module>expr_eval_token</module>
+        <module>move_avg</module>
+        <module>unique_visitor</module>
+        <module>stacks_in_array</module>
+        <module>non_repeted_char</module>
+        <module>student_record</module>
+        <module>batch_iterator</module>
+        <module>window_slider</module>
+        <module>word_frequency</module>
+        <module>custom_thread_pool</module>
+        <module>data_extraction_sms_regex</module>
+        <module>yaml_json_parser</module>
+        <module>jackson_serialization</module>
+        <module>untitled</module>
+        <module>untitled1</module>
+        <module>task_manager</module>
+        <module>contact_manager</module>
+        <module>untitled</module>
+        <module>untitled</module>
+        <module>angular_demo</module>
+        <module>webcrawler</module>
+        <module>javacrawler</module>
+        <module>bookapi</module>
+        <module>albanero</module>
+    </modules>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.6.0</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
